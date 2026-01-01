@@ -137,14 +137,7 @@ These regions are consistent with known Alzheimer’s pathology, indicating the 
 
 ---
 
-## Live Demo
 
-An interactive demo is available using **Gradio**:
-
-🔴 **Live Demo:** [https://d8d1870e8b4abb0f16.gradio.live/](https://d8d1870e8b4abb0f16.gradio.live/)
-*(May take a few seconds to wake up)*
-
----
 
 ## Challenges Faced
 
